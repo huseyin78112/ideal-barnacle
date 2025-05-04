@@ -26,3 +26,4 @@ Accept-Ranges: bytes
 
 <p>This is a test page.</p>
 ```
+You don't need to install .NET runtime to use the client downloaded from releases.
